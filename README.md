@@ -1,4 +1,5 @@
 # AI Resume Analyzer
+![Project Screenshot](./public/resumind.png)
 
 AI Resume Analyzer is a smart recruitment tool that matches resumes to job listings using AI-powered analysis. It offers a seamless hiring workflow with job management, resume uploads, and suitability scoring.
 
@@ -25,3 +26,4 @@ https://github.com/siam-gits/ai-resume-analyzer
 ---
 
 © All rights reserved to **Siam**
+
